@@ -1,0 +1,10 @@
+"cohort","mcohort","ROC","count"
+"ccAustria","ccAustria",0.696699134199134,66
+"ccAustria","ccChina",0.739101041339847,67
+"ccAustria","ccUSA",0.635747341276188,74
+"ccChina","ccAustria",0.641355092761742,85
+"ccChina","ccChina",0.658684371184371,78
+"ccChina","ccUSA",0.630260950353586,82
+"ccUSA","ccAustria",0.716619263720713,99
+"ccUSA","ccChina",0.767115865865866,100
+"ccUSA","ccUSA",0.583311111111111,100
